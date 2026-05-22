@@ -1,0 +1,276 @@
+{
+  "about_dochyve": {
+    "only_docHyve": "DocHyve",
+    "description": {
+      "part1": "est le meilleur moyen d'atteindre le bon patient pour votre pratique. C'est facile à rejoindre et il n'y a pas de frais initiaux ni de coût d'abonnement."
+    }
+  },
+  "welcome_dochyve": {
+    "welcome": "Bienvenue sur",
+    "dochyve": {
+      "part1": "Dochyve",
+      "part2": "Connectez-vous pour continuer"
+    },
+    "no_account": "Vous n'avez pas de compte?",
+    "create_account": "Créer un compte",
+    "less_than_a_minute": "Cela prend moins d'une minute."
+  },
+  "form": {
+    "label": {
+      "address":"Entrez l'adresse",
+      "address_required":"Email requis",  
+      "address_invalid":"Email invalide",  
+      "address_input": "Entrez votre e-mail", 
+      "email":"Email",
+      "f_name":"Prénom",
+      "f_required":"Prénom requis",
+      "l_name":"Nom de famille",
+      "l_required":"Nom de famille requis",
+      "p_name":"Nom de la pratique",
+      "p_required":"Pratique requise",
+      "p_input":"Entrez le nom de votre pratique",
+      "ph_required":"Téléphone requis",
+      "zipcode_required":"Code postal requis",
+       "f_input":"Entrez votre prénom",
+       "l_input":"Entrez votre nom de famille",
+      "password": "Entrez votre mot de passe",
+      "create_password_input": "Veuillez confirmer votre mot de passe",
+      "c_password": "Confirmez le mot de passe",
+      "password_required": "Mot de passe requis",
+      "password_input": "Entrez votre mot de passe"
+    },
+    "y": "Oui",
+    "n": "Non",
+    "sign_with": "ou",
+    "login_with": "ou",
+    
+    "forgot-password": "Mot de passe oublié ? ",
+    "sign_in": "Se connecter",
+    "log_in": "Connexion",
+    "sign_up": "S'inscrire",
+    "s_google": "Google",
+    "s_facebook": "Facebook",
+    "s_apple": "Apple",
+    "already_account": "Vous avez déjà un compte?",
+    "google": "Google",
+    "fb": "Facebook",
+    "apple":"Apple",
+    "copy_rights":"© 2022 DocHyve. Tous droits réservés.",
+    "license":"Licence",
+    "terms":"Conditions d'utilisation",
+    "spec":"Spécialité",
+    "apply":"Sélectionnez tout ce qui s'applique",
+    "select_p":"Entrez le nom de la spécialité",
+    "hospital_system":"Appartenez-vous au système hospitalier ?",
+    "gp":"Médecin généraliste (MG)",
+     "card":"Cardiologie (CARD)" ,
+     "ak":"Arkansas (AK)",
+     "derm":"Dermatologie (DERM)",
+     "neuro":"Neurologie (NEURO)",
+     "psyh":"Psychiatrie (PSYCH)",
+     "orth":"Orthopédie (ORTH)",
+     "uro":"Urologie (URO)",
+     "neph":"Néphrologie (NEPH)",
+     "role":"Quel est votre rôle dans la pratique?",
+     "practice_size":"Sélectionnez la taille de votre pratique :",
+     "1 - 5 Providers":"1 - 5 Praticiens",
+     "5 - 10 Providers":"5 - 10 Praticiens",
+    
+     "provider":"Fournisseur ou propriétaire de la pratique",
+     "manager":"Directeur de bureau",
+     "reception":"Réceptionniste",
+     "other":"Autre",
+     "ph":"Numéro de téléphone",
+     "ph_input":"Entrez votre numéro personnel",
+     "zipcode_input":"Code postal",
+     "zipcode":"Code postal",
+     "continue":"Continuer"
+  },
+  "account": {
+    "started": "Commençons",
+    "description": "Rejoignez DocHyve pour vous connecter avec les bons patients pour votre pratique. C'est rapide et facile !",
+    "button_text": "Inscrivez-vous maintenant"
+  },
+  "switch_lanuage": {
+    "en": "Anglais (États-Unis)",
+    "es":"Espagnol (ES)",
+    "fr":"Français (FR)"
+  },
+  "signup_step1": {
+    "clear_all":"Effacer tout",
+    "title": "Parlez-nous un peu d'eux",
+    "description": "Nous utiliserons ces informations pour créer des profils publics pour vos prestataires. Vous pouvez ajouter jusqu'à 14 profils. Entrez ce que vous pouvez, même si vous n'avez pas à fournir des informations complètes pour chaque prestataire",
+    "practitioner": "Praticien",
+    "physician": "Assistant médical",
+    "dentist": "Dentiste",
+    "therapist": "Thérapeute",
+    "nurse_practitioner": "Infirmière praticienne",
+    "other": "Autre",
+    "add": "Ajouter un prestataire",
+    "delete": "Supprimer le prestataire",
+    "edit": "Éditer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "your_role": "Votre rôle dans la pratique",
+    "title_one": "À propos de votre profil",
+    "description_one": "Obtenons les détails de votre pratique",
+    "title_two": "Facturation de la pratique",
+    "description_two": "Obtenons les détails de facturation de votre pratique",
+    "title_three": "Confirmation du compte",
+    "title_four": "Informations de paiement",
+    "description_four": "Configurons vos informations de paiement",
+    "title_five": "Planifier une démo",
+    "speciality_required": "Spécialités requises",
+    "select_role": "Rôle requis"
+  },
+
+  "signup_substep2":{
+        "title":"Où êtes-vous autorisé à traiter des patients?",
+        "description":"Généralement, les prestataires ne peuvent traiter des patients que dans les États où ils sont autorisés.",
+        "next":"Suivant",
+        "back":"Retour",
+        "akk":"Alaska (AK)",
+        "az":"Arizona (AZ)",
+        "ak":"Arkansas (AK)",
+        "ca":"Californie (CA)",
+        "co":"Colorado (CO)",
+        "ct":"Connecticut (CT)",
+        "de":"Delaware (DE)",
+        "dc":"District de Columbia (DC)",
+        "fl":"Floride (FL)",
+        "state":"État",
+        "multiple_state":"* Vous pouvez ajouter plusieurs États",
+        "enter_state":"Sélectionnez ou saisissez le nom de l'État",
+        "enter_state_validation":"Veuillez sélectionner au moins un État"
+  },
+
+  "signup_substep3":{
+    "title":"Quels types de rendez-vous souhaitez-vous recevoir?",
+    "description":"Les visites vidéo représentent 15 % des rendez-vous sur DocHyve. Si vous n'avez pas déjà une solution de télémédecine, vous pouvez utiliser notre plateforme, qui est gratuite pour les prestataires DocHyve",
+    "software_type":"Quel type de logiciel de planification utilisez-vous dans votre pratique?",
+    "software_select":"Sélectionner des logiciels",
+    "data":"DataCan",
+    "dav":"Davinci Virtual",
+    "day":"DayClips",
+    "bds":"BDS",
+    "deja":"Dejawin",
+    "dox":"Dental Office Xpress (DOX)",
+    "exec":"Dental-Exec",
+    "mate":"DentalMate",
+    "booking_type":"Sélectionner les types de rendez-vous",
+    "video_visit":"Visite vidéo uniquement",
+    "in_person":"Visite en personne uniquement",
+    "both_inperson_video":"Les deux (En personne et Visite vidéo)",
+    "my_practice_not_use_software":"Ma pratique n'utilise pas de logiciel de planification"
+
+},
+"provider":{
+  "add_provider": "Ajouter un prestataire",
+  "patients":"Patients"
+},
+
+"signup_substep4":{
+  "title":"Super ! Où voulez-vous voir vos patients?",
+  "description":"Entrez l'adresse de chaque emplacement physique de votre pratique.",
+  "Address#1":"Adresse # 1",
+  "Address#1_Placeholder":"Entrez votre adresse",
+  "Address#2":"Adresse # 2 (facultatif)",
+  "address_required":"Adresse requise",
+  "city":"Ville",
+  "city_name":"Nom de la ville",
+  "city_required":"Veuillez entrer la ville",
+  "state":"État",
+  "state_name":"Nom de l'État",
+  "add_address":"Ajouter une adresse",
+  "save_continue":"Enregistrer et continuer",
+  "arizona": "Arizona",
+  "texas":"Texas",
+  "maryland":"Maryland",
+  "address1_Required":"Adresse 1 requise",
+  "addres2_Required":"Adresse 2 requise",
+  "city_Required":"Ville requise",
+  "state_Required":"État requis",
+  "zip_Required":"Code postal requis",
+  "practice_Required":"Nom de la pratique requis",
+  "role_Required":"Rôle de la pratique requis",
+  "practicesize_Required":"Taille de la pratique requise"
+},
+
+"signup_mainstep2":{
+  "title":"Tarification de DocHyve",
+  "description":"DocHyve n'a pas de frais initiaux ni de coûts d'abonnement. Vous ne payez que pour les nouvelles réservations de patients effectuées via la Marketplace DocHyve. Toutes les autres réservations sont gratuites. De plus, vous recevez une suite d'outils gratuits pour atteindre et fidéliser les bons patients pour votre pratique.",
+  "radio_title":"Voulez-vous que nous nous occupions de votre facturation médicale ?",
+  "subscription_fee":"Votre frais d'abonnement",
+  "additional_charges": "* nous facturerons un pourcentage fixe sur la facturation d'assurance.",
+  "save-continue": "Enregistrer et continuer",
+  "faqs":"FAQS"
+  
+},
+
+"signup_mainstep3":{
+  "title":"Veuillez confirmer les informations de votre compte et configurer les informations de paiement",
+  "description":"Avant de finaliser votre paiement, prenez un moment pour sélectionner votre forfait afin de confirmer les informations de votre compte. La vérification de vos détails nous permettra de vous facturer correctement une fois votre compte vérifié.",
+  "selection_based_summary":"En fonction de vos sélections, voici un résumé de votre compte",
+  "subscription_fee":"Votre frais d'abonnement",
+  "additional_charges": "* nous facturerons un pourcentage fixe sur la facturation d'assurance.",
+  "save-continue": "Enregistrer et continuer"
+  
+},
+
+"signup_3_Step0":{
+  "payment_selection":"Sélectionnez votre mode de paiement :",
+  "total_provider":"Nombre total de prestataires",
+  "monthly_fee":"Frais mensuels",
+  "tax":"Taxe",
+  "features":"Caractéristiques",
+  "verification":"Vous serez facturé une fois que votre compte sera vérifié"
+  
+},
+
+"signup_3_Step1":{
+  "payment_selection":"Sélectionnez votre mode de paiement :",
+  "name_on_card":"Nom sur la carte",
+  "credit_card":"Carte de crédit",
+  "description":"Avant de finaliser votre paiement, prenez un moment pour sélectionner votre forfait afin de confirmer les informations de votre compte. La vérification de vos détails nous permettra de vous facturer correctement une fois votre compte vérifié.",
+  "selection_based_summary":"En fonction de vos sélections, voici un résumé de votre compte",
+  "subscription_fee":"Votre frais d'abonnement",
+  "additional_charges": "* nous facturerons un pourcentage fixe sur la facturation d'assurance.",
+  "save-continue": "Enregistrer et continuer",
+  "name":"Nom",
+  "enter_card_name":"Entrez le nom de votre carte",
+  "number":"Numéro",
+  "number_placeholder":"0000 0000 0000 0000",
+  "expiry_date":"Date d'expiration",
+  "mm/yy":"MM/AA",
+  "CVV":"CVV",
+  "save_info":"Enregistrer les informations",
+  "question_save_info":"Souhaitez-vous enregistrer vos informations pour les paiements futurs?",
+  "paypal":"Paypal",
+  "apple_pay":"Apple Pay",
+  "enter_apple_id":"Entrez votre identifiant Apple",
+  "apple_id":"Identifiant Apple",
+  "billing_address":"Adresse de facturation",
+  "shipping_address":"Adresse de livraison"
+},
+
+"signup_3_Step2":{
+  "subscription_summary":"Résumé de l'abonnement",
+  "subscription_type":"Type d'abonnement",
+  "subscription_limit":"Limite d'abonnement",
+  "provider_fee":"Frais du prestataire",
+  "tax":"Taxe",
+  "total_amount":"Montant total à payer",
+  "save_invoice":"Merci ! Nous avons enregistré votre facture",
+  "charge_account":"Vous serez facturé une fois que votre compte sera vérifié"
+  
+  
+},
+
+"signup_4":{
+  "title":"Planifier une démo",
+  "description":"Planifions un appel entrant du CRM",
+  "select_timezones":"Sélectionner les fuseaux horaires",
+  "select_date":"Sélectionner la date",
+  "select_time":"Sélectionner l'heure"
+}  
+}

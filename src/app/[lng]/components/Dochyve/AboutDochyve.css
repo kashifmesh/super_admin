@@ -1,0 +1,33 @@
+:root {
+  --margin-11px: 11px;
+  --signup-bg-url: url('../../../assets/images/signup-bg.svg');
+  --bg-radius: 0px 0px 84px 0px;
+  --mw-465: 465px;
+
+}
+
+.background-container {
+  background-image: var(--signup-bg-url);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  border-radius: var(--bg-radius);
+}
+
+.mw-465 {
+  max-width: 465px;
+  width: 100%;
+}
+
+.ml-11 {
+  margin: var(--margin-11px);
+}
+
+.banner-element {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 465px;
+}

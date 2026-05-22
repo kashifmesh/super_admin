@@ -1,0 +1,42 @@
+:root {
+    --btn-primary: #0D257B;
+    --btn-primary-color: #fff;
+    --secondary-button: #D2D2D2;
+    --btn-transparent-border: 1px solid #6D6D6D;
+    --btn-border-radius: 6px;
+    --color-black: #000;
+    --bg-primary: #0D257B;
+    --text-primary: #0D257B;
+    --bg-white: #fff;
+    --bg-red: #F44336;
+    --bg-golden: #D4A34A;
+    --text-golden:#F5C86F;
+    --border-golden: 1.5px solid #D4A34A;
+    --bg-grey: #D7AB561A;
+    --btn-golden: #D4A34A;
+    --bg-green: #41C588;
+    --hero-bg: #F6F9FF;
+
+    /* Font Sizes */
+    --fs-55: 55px;
+    --fs-32: 32px;
+    --fs-24: 24px;
+    --fs-22: 22px;
+    --fs-20: 20px;
+    --fs-16: 16px;
+    --fs-14: 14px;
+
+    /* Weights */
+    --fw-600: 600;
+    --fw-500: 500;
+    --fw-400: 400;
+
+    /* Line Heights */
+    --lh-52: 52px;
+    --lh-26: 26px;
+    --lh-24: 24px;
+
+    /* Font Family */
+    --font-fam: 'Montserrat', sans-serif;
+  
+}

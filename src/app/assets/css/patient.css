@@ -1,0 +1,96 @@
+.fs-55 {
+    font-size: var(--fs-55);
+}
+
+.fs-32 {
+    font-size: var(--fs-32);
+}
+
+
+.fs-22 {
+    font-size: var(--fs-22);
+}
+
+.fs-20 {
+    font-size: var(--fs-20);
+}
+
+.fs-14 {
+    font-size: var(--fs-14);
+}
+
+.fw-600{
+    font-weight: var(--fw-600) !important;
+}
+
+.fw-500{
+    font-weight: var(--fw-500);
+}
+
+
+.fw-400{
+    font-weight: var(--fw-400) !important;
+}
+
+.hero_section{
+    background-color: var(--hero-bg);
+}
+.border-golden{
+    border: 4px solid #D4A34A;
+}
+
+.patient_container{
+    max-width: 1920px;
+    width: 100%;
+    /* padding: 0 35px; */
+    margin: 0 auto;
+}
+
+.mw-550{
+    max-width: 550px;
+    width: 100%;
+}
+.no-border{
+    border: none !important;
+}
+
+.radius{
+    border-radius: 6px;
+}
+
+
+.main-primary-btn{
+    background-color: var(--btn-primary);;
+}
+
+.primary-button{
+    color: var(--btn-primary);
+}
+
+.primary-transparent{
+    border: 1px solid #0D257B;
+}
+
+.secondary-button{
+    color: var(--secondary-button);
+}
+
+.bg-green{
+    background-color: #41C588;
+}
+
+.color-white{
+    color: #fff !important;
+}
+.secondary-transparent{
+    border: 1px solid #D2D2D2
+}
+.ant-layout-footer{
+    padding:  0px !important;
+}
+
+
+.radius-unset{
+    border-radius: unset !important;
+}
+

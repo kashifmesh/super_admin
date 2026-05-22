@@ -1,0 +1,23 @@
+{
+    "navigation": {
+        "my_hyve": "My Hyve",
+        "dashboard": "Dashboard",
+        "appointments": "Appointments",
+        "patients": "Patients",
+        "reports": "Reports",
+        "all_reports": "All Reports",
+        "patient_reports": "Patient Reports",
+        "providers": "Providers",
+        "manage_doctors": "Manage Providers",
+        "manage_scheduling": "Manage Scheduling",
+        "authentication": "Authentication",
+        "medical_billing": "Medical Billing",
+        "daily_charges": "Daily Charges",
+        "pending_claims": "Pending Claims",
+        "credentialing": "Credentialing",
+        "insurance": "Insurance",
+        "tickets": "Tickets",
+        "help_desk": "Help Desk",
+        "logout": "Logout"
+    }
+}

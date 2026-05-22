@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-size: var(--fs-42) !important;
+    line-height: var(--lh-52) !important;
+}
+
+h2 {
+    font-size: var(--fs-28) !important;
+}
+
+h3 {
+    font-size: var(--fs-24) !important;
+    line-height: var(--lh-26) !important;
+}
+
+.fw-700 {
+    font-weight: var(--fw-700);
+}
+
+
+.font-fam {
+    font-family: var(--font-fam);
+}
+
+p {
+    font-weight: var(--fw-500) !important;
+    line-height: var(--lh-24) !important;
+    color: var(--p-color) !important;
+}
+
+.fs-42 {
+    font-size: var(--fs-42);
+}
+
+.fs-24 {
+    font-size: var(--fs-24);
+}
+
+
+.fs-16 {
+    font-size: var(--fs-16);
+}
+
+.fs-14 {
+    font-size: var(--fs-14);
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-600 {
+    font-weight: 600 !important;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+/* .btn-primary {
+    background-color: var(--btn-primary) !important;
+    color: var(--btn-primary-color) !important;
+} */
+
+.bg-primary {
+    background-color: var(--bg-primary);
+}
+
+.black {
+    color: var(--color-black);
+}
+
+/* .btn-secondary {
+    background-color: var(--btn-secondary) !important;
+    color: var(--btn-primary) !important;
+} */
+
+.bg-white {
+    background-color: var(--bg-white);
+}
+
+.text-gray {
+    color: #6D6D6D;
+}
+
+label {
+    font-size: var(--fs-14) !important;
+    color: var(--label-color) !important;
+    font-family: var(--font-fam) !important;
+}
+
+.logo-text {
+    color: var(--dochyve-logo);
+}
+
+.lh-26 {
+    line-height: 26px;
+}
+
+.text-primary {
+    color: var(--bg-primary) !important;
+}
+
+
+.btn-transparent-border {
+    border: var(--btn-transparent-border);
+}
+
+.multiple_select .ant-select-selector .ant-select-selection-item {
+    background: var(--bg-primary);
+    color: var(--btn-primary-color) !important; 
+}
+
+.ant-select-selector {
+    min-height: 40px;
+    max-height: 80px;
+}
+
+
+.input-email .ant-select-selection-overflow-item-suffix {
+    color: #fff;
+}
+
+.input_email .ant-select-selector .ant-select-selection-overflow .anticon-close {
+    background: red;
+    border-radius: 20px;
+    padding: 2px;
+    vertical-align: unset;
+}
+
+.input_email .ant-select-selector .ant-select-selection-overflow .anticon-close svg {
+    font-size: 14px !important;
+}
+
+.anticon-close {
+    color: #000;
+}
+
+.custom_options {
+    font-size: var(--fs-16) !important;
+    font-family: var(--font-fam) !important;
+    font-weight: var(--fw-500) !important;
+}
+.custom_options .anticon-close{
+    color: white !important;
+}
+
+::placeholder {
+    font-family: var(--font-fam);
+    font-weight: var(--fw-500);
+
+}
+
+.ant-select-selection-placeholder {
+    font-family: var(--font-fam) !important;
+    font-weight: var(--fw-500);
+}
+.custom_selected_spec .ant-select-selection-item-content{
+    color: white !important;
+}
+.bg-red {
+    background-color: var(--bg-red);
+}
+
+.w-83 {
+    width: 83% !important;
+}
+
+.h-46 {
+    height: 46px;
+}
+
+.bg-golden {
+    background-color: #F5C86F;
+}
+
+.bg-silver {
+    background-color: #D2D2D2;
+}
+
+.text-golden {
+    color: #F5C86F;
+}
+
+.text-silver {
+    color: #6D6D6D;
+}
+
+.about-dochyve {
+    max-width: 700px;
+}
+
+
+
+@media only screen and (max-width:768px) {
+    h1 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    h1 {
+       font-size: 30px !important;
+    }
+}
+
+.lh-24 {
+    line-height: 24px;
+}
+
+.email_label .ant-col {
+    text-align: start;
+}
+
+.signup-lang .ant-select-arrow{
+    top: 60% !important;
+}

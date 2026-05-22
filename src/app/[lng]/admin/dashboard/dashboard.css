@@ -1,0 +1,182 @@
+.admin-layout {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f6f9ff;
+}
+
+/* Sidebar Custom Styling */
+.admin-sider {
+  background: #0d257b !important;
+  box-shadow: 4px 0 15px rgba(13, 37, 123, 0.05);
+  z-index: 10;
+  position: fixed !important;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  overflow-y: auto;
+}
+
+.site-layout {
+  margin-left: 280px;
+  min-height: 100vh;
+  transition: all 0.2s;
+}
+
+.sider-logo-container {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  padding: 0 24px;
+  background: rgba(255, 255, 255, 0.03);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.sider-logo-icon {
+  width: 32px;
+  height: 32px;
+  background: #dfbd72;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0d257b;
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-right: 12px;
+}
+
+.sider-logo-text {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.custom-sidebar-container {
+  scrollbar-width: none;
+}
+
+.custom-sidebar-container::-webkit-scrollbar {
+  display: none;
+}
+
+.custom-parent-item {
+  color: #b0c4de;
+}
+
+.custom-parent-item:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.custom-parent-item.active {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.custom-sub-item {
+  color: #b0c4de;
+}
+
+.custom-sub-item:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.custom-sub-item.active {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.custom-logout-item {
+  color: #ff9f9f;
+  margin-top: auto;
+}
+
+.custom-logout-item:hover {
+  color: #ffffff !important;
+  background-color: rgba(244, 67, 54, 0.15) !important;
+}
+
+/* Header Styling */
+.admin-header {
+  background: #ffffff !important;
+  padding: 0 24px !important;
+  height: 64px !important;
+  line-height: 64px !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(13, 37, 123, 0.03);
+  border-bottom: 1px solid #f0f0f7;
+  position: sticky !important;
+  top: 0;
+  z-index: 9;
+}
+
+.header-left h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #0d257b;
+}
+
+.user-avatar {
+  background: #0d257b !important;
+  cursor: pointer;
+}
+
+/* Content Area Styling */
+.admin-content-wrapper {
+  padding: 24px;
+}
+
+.admin-content {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+/* Metric Cards */
+.metric-card {
+  border-radius: 16px !important;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.metric-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(13, 37, 123, 0.08) !important;
+}
+
+.bg-gradient-blue {
+  background: linear-gradient(135deg, #0d257b 0%, #1a3c8e 100%) !important;
+}
+
+/* Table Custom Styling */
+.logs-card {
+  border-radius: 16px !important;
+}
+
+.logs-card .ant-card-head {
+  border-bottom: 1px solid #f0f0f7 !important;
+}
+
+.logs-card .ant-card-head-title {
+  color: #0d257b !important;
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+}
+
+.log-action {
+  font-weight: 600;
+  color: #323232;
+}
+
+.custom-table .ant-table-thead>tr>th {
+  background: #f6f9ff !important;
+  color: #0d257b !important;
+  font-weight: 700 !important;
+}
+
+.custom-table .ant-table-row:hover {
+  background-color: #fcfdfe !important;
+}

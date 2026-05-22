@@ -1,0 +1,41 @@
+:root {
+    --btn-primary: #0D257B;
+    --btn-primary-color: #fff;
+    --btn-secondary: rgba(13, 37, 123, 0.05);
+    --btn-transparent: rgba(109, 109, 109, 0.05);
+    --btn-transparent-border: 1px solid #6D6D6D;
+    --btn-darkbg-border: 1px solid #0D257B;
+    --btn-border-radius: 8px;
+    --p-color: #323232;
+    --dochyve-logo: #F5C86F;
+    --label-color: #6D6D6D;
+    --color-black: #000;
+    --mw-465: 465px;
+    --bg-primary: #0D257B;
+    --bg-white: #fff;
+    --bg-red: #F44336;
+    --bg-yellow: #F5C86F;
+    --text-golden:#F5C86F;
+    --bg-grey: #D7AB561A;
+    /* Font Sizes */
+    --fs-42: 42px;
+    --fs-28: 28px;
+    --fs-24: 24px;
+    --fs-16: 16px;
+    --fs-14: 14px;
+
+    /* Weights */
+    --fw-700: 700;
+    --fw-600: 600;
+    --fw-500: 500;
+    --fw-400: 400;
+
+    /* Line Heights */
+    --lh-52: 52px;
+    --lh-26: 26px;
+    --lh-24: 24px;
+
+    /* Font Family */
+    --font-fam: 'Montserrat', sans-serif;
+    --w-83:"83%"
+}

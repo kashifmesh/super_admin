@@ -1,0 +1,116 @@
+/****************************************
+/* Set the CSS for all inputs fields 
+*****************************************/
+.ant-input-outlined:hover {
+  border-color: #0d257b;
+}
+.ant-input-outlined:focus,
+.ant-input-outlined:focus-within {
+  border-color: #0d257b;
+}
+
+/***************************** 
+Set the CSS for all select 
+******************************/
+.ant-select-focused > .ant-select-outlined > .ant-select-selector,
+.ant-select-outlined:hover .ant-select-selector,
+.ant-select-focused .ant-select-outlined .ant-select-selector,
+.ant-select-focused:where(
+    .css-dev-only-do-not-override-djtmh8
+  ).ant-select-outlined:not(.ant-select-disabled):not(
+    .ant-select-customize-input
+  ):not(.ant-pagination-size-changer)
+  .ant-select-selector {
+  border-color: #0d257b !important;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-select-dropdown
+  .ant-select-item-option-selected:not(.ant-select-item-option-disabled)
+  .ant-select-item-option-state {
+  color: #0d257b;
+}
+
+/************************************ 
+Set the CSS for all radio buttons 
+*************************************/
+.ant-radio-wrapper .ant-radio-checked .ant-radio-inner {
+  background-color: #0d257b !important;
+  border-color: #0d257b !important;
+}
+.ant-radio-wrapper:hover .ant-radio-wrapper,
+.ant-radio-wrapper:hover .ant-radio-inner {
+  border-color: #0d257b !important;
+}
+
+/******************************************
+/* Set the CSS for all Checkbox buttons 
+*******************************************/
+.ant-checkbox-checked .ant-checkbox-inner,
+.ant-checkbox-wrapper:hover .ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #0d257b !important;
+  border-color: #0d257b !important;
+}
+.ant-checkbox-wrapper:hover .ant-checkbox-inner,
+.ant-checkbox:hover .ant-checkbox-inner {
+  border-color: #0d257b !important;
+}
+
+/*********************************
+/* Set the CSS for all Buttons 
+**********************************/
+.btn-primary {
+  height: 46px;
+  color: white;
+  background-color: #0d257b;
+}
+.btn-secondary {
+  height: 46px;
+  color: #0d257b;
+  border-color: #0d257b;
+  background-color: #ebeef4;
+}
+.btn-grey {
+  height: 46px;
+  color: #6d6d6d;
+  border-color: #6d6d6d;
+  background-color: #ebeef4;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover,
+.btn-grey:hover {
+  border-color: #07195a !important;
+  background-color: #07195a !important;
+  color: white !important;
+}
+
+/***********************************
+/* Set the CSS for Range Picker  
+************************************/
+.ant-picker-outlined:hover,
+.ant-picker-outlined:focus,
+.ant-picker-outlined:focus-within {
+  border-color: #0d257b !important;
+}
+.ant-picker-range .ant-picker-active-bar {
+  background: #0d257b !important;
+}
+.ant-picker-dropdown
+  .ant-picker-cell-in-view.ant-picker-cell-range-start:not(
+    .ant-picker-cell-disabled
+  )
+  .ant-picker-cell-inner,
+.ant-picker-dropdown
+  .ant-picker-cell-in-view.ant-picker-cell-range-end:not(
+    .ant-picker-cell-disabled
+  )
+  .ant-picker-cell-inner {
+  background-color: #0d257b;
+}
+/*********************************
+/* Set the CSS for Search box  
+**********************************/
+.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover,
+.ant-input-search .ant-input:focus,
+.ant-input-search .ant-input:hover {
+  border-color: #0d257b !important;
+}

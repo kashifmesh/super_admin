@@ -1,0 +1,60 @@
+/* Classes for Patient side ............................................. */
+.patient-bg-primary {
+    @apply bg-primaryBlue;
+  }
+  
+  .patient-text-primary {
+    @apply !text-customBlack;
+  }
+  
+  .patient-text-secondary {
+    @apply !text-[#6D6D6D];
+  }
+  
+  .patient-normal {
+    @apply !font-normal;
+  }
+  
+  .patient-medium {
+    @apply !font-medium;
+  }
+  
+  .patient-semibold {
+    @apply font-semibold;
+  }
+  
+  .patient-heading-1 {
+    @apply !text-[45px];
+  }
+  
+  .patient-heading-2 {
+    @apply !text-[28px] md:!text-[32px];
+  }
+  
+  .patient-heading-3 {
+    @apply !text-[24px];
+  }
+
+  .patient-heading-l-4{
+    @apply !text-[20px];
+  }
+  
+  .patient-heading-4 {
+    @apply !text-[16px];
+  }
+  
+  .patient-text-1 {
+    @apply !text-[18px];
+  }
+  
+  .patient-text-2 {
+    @apply text-[16px];
+  }
+  
+  .patient-text-3 {
+    @apply text-[14px];
+  }
+  
+  .patient-text-4 {
+    @apply text-[12px];
+  }

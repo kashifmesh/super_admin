@@ -1,0 +1,44 @@
+.email_label .ant-row {
+    display: block !important;
+}
+
+.input_email {
+    height: 40px;
+}
+
+.input-email-height-40 {
+    height: 40px;
+}
+
+.select-icons img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.ant-form-item .ant-form-item-label>label::after {
+    display: none !important;
+}
+
+.ant-form-item .ant-form-item-label>label {
+    flex-direction: row-reverse;
+}
+
+.custom_icon_select svg {
+    color: white !important;
+}
+
+.custom-select-text .ant-select-selection-item {
+    color: #000 !important;
+    font-weight: 500 !important;
+}
+
+.custom-select-text.ant-select-disabled .ant-select-selection-item {
+    color: rgba(0, 0, 0, 0.25) !important;
+}
+
+.custom-select-text .ant-select-item-option-content {
+    color: rgb(0, 0, 0) !important;
+    font-weight: 500 !important;
+}

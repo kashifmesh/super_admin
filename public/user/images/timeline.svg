@@ -1,0 +1,19 @@
+<svg width="470" height="33" viewBox="0 0 470 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="19.749" width="6" height="97" rx="3" transform="rotate(-90 9 19.749)" fill="#0D257B"/>
+<rect x="106" y="19.749" width="6" height="86" rx="3" transform="rotate(-90 106 19.749)" fill="#0D257B"/>
+<rect x="192" y="19.749" width="6" height="87" rx="3" transform="rotate(-90 192 19.749)" fill="#DDDDDD"/>
+<rect x="279" y="19.749" width="6" height="95" rx="3" transform="rotate(-90 279 19.749)" fill="#DDDDDD"/>
+<rect x="374" y="19.749" width="6" height="95" rx="3" transform="rotate(-90 374 19.749)" fill="#DDDDDD"/>
+<rect x="1" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 1 31.749)" fill="#0D257B"/>
+<rect x="1" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 1 31.749)" stroke="#F1F3F6" stroke-width="2"/>
+<path d="M10.75 17.499L14.25 20.999L21.25 13.499" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="89" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 89 31.749)" fill="#0D257B"/>
+<rect x="89" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 89 31.749)" stroke="#F1F3F6" stroke-width="2"/>
+<path d="M98.75 17.499L102.25 20.999L109.25 13.499" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="177" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 177 31.749)" fill="#0D257B"/>
+<rect x="177" y="31.749" width="30" height="30" rx="15" transform="rotate(-90 177 31.749)" stroke="#F1F3F6" stroke-width="2"/>
+<path d="M186.75 17.499L190.25 20.999L197.25 13.499" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="280" cy="16.749" r="13.125" transform="rotate(-90 280 16.749)" fill="white" stroke="#DDDDDD" stroke-width="1.75"/>
+<circle cx="368" cy="16.749" r="13.125" transform="rotate(-90 368 16.749)" fill="white" stroke="#DDDDDD" stroke-width="1.75"/>
+<circle cx="456" cy="16.749" r="13.125" transform="rotate(-90 456 16.749)" fill="white" stroke="#DDDDDD" stroke-width="1.75"/>
+</svg>

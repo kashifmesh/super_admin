@@ -1,0 +1,195 @@
+{
+  "navigation": {
+    "my_hyve": "My Hyve",
+    "guide": "Guide",
+    "past_appointments": "Appointments",
+    "members": "Members",
+    "reports": "Reports",
+    "health_check": "Health Check",
+    "patient_reports": "Patient Reports",
+    "signup_login": "Sign up/Login"
+  },
+
+  "hero": {
+    "offer_top_quality": "We Offer Top-Quality And Cost Effective Health Services",
+    "doctors": "Doctors",
+    "who_take_your_insurance": "Who take Your insurance",
+    "cond_proc_docs": "Search By Doctor, Condition",
+    "city_state_zip": "Search by City",
+    "choose_insurance": "Choose Insurance",
+    "find_nearby_appointments":"We can help you find nearby vaccine appointments or notify you when slots become available."
+  },
+
+  "filter": {
+    "search": "Search"
+  },
+
+  "find_doctor": {
+    "find_doctor_specialties": "Find Doctor By Top Specialities",
+    "top_rated": "Top Rated Primary Care Doctors",
+    "shortest_time": "Top Rated Dentist",
+    "highly_recommended": "Highly Recommended",
+    "book_online": "Book Online",
+    "90%_patients": " 90% of patients gave these primary care doctors 5 stars",
+    "see_more": "See All Top Rated Primary care Doctors"
+  },
+  "specilaity": {
+    "primary_care": "Primary Care",
+    "primary_care_description":"Compassionate primary care, tailored to you.",
+    "dentist": "Dentist",
+    "dentist_description":"Transform your smile with our expert dental care.",
+
+    "dermatology": "Dermatology",
+    "dermatology_description":"Expert dermatological care for radiant skin.",
+    "ob-gyn": "OB-GYN",
+    "ob-gyn-description":"Empowering women's health through expert OB-GYN care",
+    "psychiatrist": "Psychiatrist",
+    "psychiatrist_description":"Tailored psychiatric care for your well-being.",
+    "optmetrist": "Optometrist",
+    "Popular_specilaity_on_DockHyve": "Our Wide Range of Specialities",
+    "speciality_discover":"Discover a diverse range of medical specialities tailored to your needs"
+  },
+  "easy_steps": {
+    "3_easy_steps": "3 Easy Steps and Get Your Solution",
+    "smart_care_services":"All SMART CARE services are available in web and mobile app versions with fast service responses, and support from experienced octors and specialists throughout USA",
+    "primary_care_description":"Compassionate primary care, tailored to you.",
+    "dentist": "Dentist",
+    "dentist_description":"Transform your smile with our expert dental care.",
+
+    "dermatology": "Dermatology",
+    "dermatology_description":"Expert dermatological care for radiant skin.",
+    "ob-gyn": "OB-GYN",
+    "ob-gyn-description":"Empowering women's health through expert OB-GYN care",
+    "psychiatrist": "Psychiatrist",
+    "psychiatrist_description":"Tailored psychiatric care for your well-being.",
+    "optmetrist": "Optometrist",
+    "Popular_specilaity_on_DockHyve": "Our Wide Range of Specialities",
+    "speciality_discover":"Discover a diverse range of medical specialities tailored to your needs"
+  },
+  "getDoctor": {
+    "let_gets_you_a_doc": "Lets Get you A Doc Who Gets You",
+    "see_specialties": "See Specialities",
+    "Browse_providers": "Browse providers who take your insurance",
+    "see_providers": "See Providers",
+    "Read_reviews_from_users": "Read reviews from users",
+    "see_availability": "See Availability",
+    "Book_an_appointment": "Book an appointment"
+  },
+  "joinUs": {
+    "Join_us_on_the_Journey": "Join Us On The Journey,",
+    "Download_the_app_for_Free_Today": "Download The App For Free Today.",
+    "Aliquam_vehicula_pellentesque": "Aliquam Vehicula Pellentesque id Mi Quam Ipsum. Arcu Nisl Faucibus Mattis",
+    "etiam": "Etiam",
+    "Scan_the_QR_code_to_get_the_app_now": "Scan The QR Code To Get The App Now",
+    "Available_in_Stores": "Available In Stores",
+    "Get_it_on": "Get it on",
+    "Google_Play": "Google Play",
+    "Download_on_the": "Download on the",
+    "App_Store": "App Store"
+  },
+
+  "visit_reason": {
+    "common_reason": "Common Visit Reasons",
+    "Specialties": "Specialties",
+    "Dental": "Dental",
+    "Mental_Health": "Mental Health",
+    "Vision": "Vision",
+    "nexplanon_removal": "Nexplanon removal",
+    "OB-GYN_emergency": "OB-GYN emergency",
+    "IUD_removal": "IUD removal",
+    "IUD_insertion": "IUD insertion",
+    "Annual_physical": "Annual physical",
+    "Pre-surgery_Pre-surgical": "Pre-surgery checkup/Pre-surgical clearance",
+    "Dental_cleaning": "Dental cleaning",
+    "Anxiety": "Anxiety",
+    "Hyperactive_disorder": "Hyperactive disorder (ADD/ADHD)",
+    "Online_Therapy": "Online Therapy",
+    "annual_eye_exam": "Annual eye exam",
+    "eye_exam": "Eye exam"
+  },
+
+  "dochyve_recruiting": {
+    "recruiting": "DocHyve is Recruiting",
+    "description": "Metus, diam pretium at at morbi vulputate et. Tellus ipsum sollicitudin ut eu a lectus potenti maecenas"
+  },
+  "signUp": {
+    "first_name": "First Name",
+    "placeholder_first_name": "Enter Your First Name",
+    "placeholder_last_name": "Enter Your First Name",
+    "last_name": "Last Name",
+    "date_of_birth": "Date Of Birth",
+    "placeholder_yyyy": "YYYY",
+    "placeholder_mm": "MM",
+    "placeholder_dd": "DD",
+
+    "gender": "Gender",
+    "male": "Male",
+    "fe_male": "Female",
+    "add_more_sex_info": "Add more sex & gender Info ",
+    "enter_email": "Enter Your Email",
+    "confirm_email": "Confirm Your Email",
+    "password": "Password",
+    "password_placeholder": "Enter Your Password",
+    "use_at_least_8_characters": "Use at least 8 characters",
+    "use_letters": "Use letters",
+    "use_numbers": "Use numbers",
+    "use_special_characters_@#%$$": "Use special characters @#%$$",
+    "continue": "Continue",
+    "terms_conditions1": "I have reviewed and agree to the ",
+    "terms_conditions2": "Terms & Conditions ",
+    "terms_conditions3": "of the ",
+    "terms_conditions4": "DocHyve ",
+    "terms_conditions5": "Privacy Policy",
+    "patient_signUp": "Patient SignUp",
+    "ptient_signIn": "Patient SignIn",
+    "assigned_female_at_birth": "Assigned female at birth",
+    "assigned_male_at_birth": "Assigned male at birth",
+    "cisgender": "Cisgender",
+    "cisgender_desc": "A person whose current gender corresponds to the sex they were assigned at birth",
+    "genderfluid": "Genderfluid",
+    "genderfluid_desc": "A person who does not identify with a fixed gender",
+    "genderqueer": "Genderqueer",
+    "genderqueer_desc": "A person who does not follow binary gender norms",
+    "intersex/variations_in_sex_characteristics": "Intersex/variations in sex characteristics",
+    "intersex/variations_in_sex_characteristics_desc": "A person born with traits, including genital anatomy, reproductive organs, hormone function, and/or chromosome patterns that may not fit the typical definition of male or female",
+    "non_binary": "Non-binary",
+    "non_binary_desc": "Umbrella term for a person whose gender identity lies outside the gender binary",
+    "transgender_man": "Transgender man",
+    "transgender_man_desc": "A person whose gender is male and whose sex assigned at birth was female",
+    "transgender_woman": "Transgender Woman",
+    "transgender_woman_desc": "A person whose gender is female and whose sex assigned at birth was male",
+    "prefer_not_to_say": "Prefer not to say",
+    "prefer_not_to_say_desc": "This is an option for people who do not wish to disclose their gender identity.",
+    "None_of_these": "None of these apply to me",
+    "None_of_these_desc": "This is an option for people who do not identify with any of the listed terms.",
+    "forgot_password":"Forgot Password?" 
+
+  },
+
+  "health_check": {
+    "stay_healthy": "Stay Healthy With Our Thorough Health Check",
+    "description": "Monitor vital health metrics from home with our robust health check feature.",
+    "medical_history":"Medical History",
+    "track_record":"Record and track your past medical conditions and treatments for a comprehensive overview of your health journey."
+  },
+
+  "health_issues": {
+    "address_issues": "Prevalent Health Issues We Address on a Regular Basis",
+    "specialities":"Specialities",
+    "dental":"Dental",
+    "mental_health":"Mental Health",
+    "vision":"Vision",
+    "nexplanon_removal":"Nexplanon removal",
+    "ob_gyn":"OB-GYN emergency",
+    "iud_removal":"IUD removal",
+    "iud_insertion":"IUD insertion",
+    "annual_physical":"Annual physical",
+    "more":"More"
+   
+  }
+
+
+
+
+
+}

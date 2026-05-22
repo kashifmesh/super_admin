@@ -1,0 +1,13 @@
+.step1_row {
+    margin: unset !important;
+    background-color: #FBFCFD;
+    row-gap: 16px !important;
+    height: 100vh;
+
+}
+
+@media only screen and (max-width:992px) {
+    .step1_row {
+        height: unset;
+    }
+}
