@@ -37,7 +37,6 @@ export default function Sidebar({ lng, collapsed, setCollapsed }) {
       sub_menu_items: [
         { id: '1-1', title: 'Registered Practices', route: '/admin/practice/registered' },
         { id: '1-2', title: 'Practice Providers', route: '/admin/practice/providers' },
-        // { id: '1-3', title: 'Document Verification', route: '/admin/practice/verification' },
       ]
     },
     {
@@ -67,9 +66,7 @@ export default function Sidebar({ lng, collapsed, setCollapsed }) {
       icon: <UserOutlined style={{ fontSize: '18px' }} />,
       sub_menu_items: [
         { id: '4-1', title: 'All Users', route: '/admin/users/all' },
-        // { id: '4-2', title: 'Add Users', route: '/admin/users/add' },
         { id: '4-3', title: 'Roles & Permissions', route: '/admin/users/roles' },
-        // { id: '4-4', title: 'Access Control', route: '/admin/users/access' },
       ]
     },
     {
@@ -77,7 +74,6 @@ export default function Sidebar({ lng, collapsed, setCollapsed }) {
       lbl_name: 'Analytics & Reports',
       icon: <LineChartOutlined style={{ fontSize: '18px' }} />,
       sub_menu_items: [
-        // { id: '5-1', title: 'Performance Metrics', route: '/admin/analytics/metrics' },
         { id: '5-2', title: 'Generate Reports', route: '/admin/analytics/reports' },
         { id: '5-3', title: 'Activity Logs', route: '/admin/analytics/logs' },
       ]
@@ -88,7 +84,6 @@ export default function Sidebar({ lng, collapsed, setCollapsed }) {
       icon: <SettingOutlined style={{ fontSize: '18px' }} />,
       sub_menu_items: [
         { id: '6-1', title: 'Settings', route: '/admin/system/settings' },
-        // { id: '6-2', title: 'Notifications', route: '/admin/system/notifications' },
         { id: '6-3', title: 'Support & Help', route: '/admin/system/support' },
       ]
     }
